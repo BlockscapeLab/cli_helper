@@ -1,6 +1,6 @@
 # cli_helper
 
-##usage 
+## Usage 
 
 npx @cosmjs/cli --init cli_helper.ts
 
